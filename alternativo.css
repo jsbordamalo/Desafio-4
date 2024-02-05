@@ -1,0 +1,123 @@
+body {
+    background-color: #2113e1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: #107dbc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 50px;
+    border-radius: 3px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(10, 247, 10);
+}
+ h2{
+    text-align: left;
+    font-size: 25px;
+    color: rgb(10, 247, 10);
+ }
+    
+ h3{
+    text-align: center;
+    font-size: 15px;
+    color:rgb(10, 247, 10);
+ }
+
+main {
+    background-color: #107dbc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.section,.article {
+    background-color: rgb(2, 193, 252);
+    margin: 15px;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    color:#ec0e33 ;  
+}
+
+.div{
+    width: all;
+    height: 650px;
+   background-image: url(img/mario-kart-8-deluxe.jpg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 35px;
+   border-radius: 20px;
+}
+
+.div2{
+    width: all;
+    height: 650px;
+   background-image: url(img/mortal-kombat-11.jpg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 35px;
+   border-radius: 20px;
+}
+
+a{
+    display: inline-block;
+    text-align: center;
+    width: 60px;
+    font-weight: 400;
+    border-radius: 10px;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-bottom: 30px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: #bcee08;
+    background-color: #f02906;
+    
+}
+.divmario1{
+    width: all;
+    height: 650px;
+   background-image: url(img/mario-de-lujo.jpeg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 35px;
+   border-radius: 20px;
+}
+
+.divmario2{
+    width: all;
+    height: 650px;
+   background-image: url(img/mario-clasico.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 35px;
+   border-radius: 20px;
+}
+.divmortal1{
+    width: all;
+    height: 650px;
+   background-image: url(img/mortal-clasico.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 35px;
+   border-radius: 20px;
+}
+.divmortal2{
+    width: all;
+    height: 650px;
+   background-image: url(img/mortal-11.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 35px;
+   border-radius: 20px;
+}
